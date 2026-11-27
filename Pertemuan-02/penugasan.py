@@ -1,0 +1,10 @@
+skor = 10
+print("Awal      :", skor)
+skor += 5
+print("Setelah +=:", skor)
+skor *= 2
+print("Setelah *=:", skor)
+skor //= 4
+print("Setelah //=:", skor)
+skor **= 2
+print("Setelah **=:", skor)
